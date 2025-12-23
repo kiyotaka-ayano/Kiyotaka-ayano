@@ -1,4 +1,4 @@
-# Hi, I'm Banchi 👋
+# Hi, I'm Abene 👋
 
 ## About Me
 I am a self-taught developer and a college student with a strong interest in programming, problem-solving, and continuous learning.
