@@ -44,8 +44,7 @@ I prefer understanding concepts deeply rather than rushing to advanced topics wi
 ## Future Goals
 - Become proficient in full-stack web development  
 - Write clean, efficient, and well-documented code  
-- Contribute to open-source projects  
-- Replace this README with a fully self-written one
+- Contribute to open-source projects
 
 ---
 
